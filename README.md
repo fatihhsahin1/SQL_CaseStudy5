@@ -1,5 +1,6 @@
 # SQL_CaseStudy5
 An in-depth SQL analysis of Data Mart's sales metrics, evaluating the impact of sustainable packaging changes. This repository showcases data extraction, cleansing, and visualization techniques to derive key business insights
+![5](https://github.com/fatihhsahin1/SQL_CaseStudy5/assets/76142095/3b6867d7-3507-478c-898e-9cbf29cd4b21)
 
 
 ## DataMart Dynamics Project: Analyzing Retail Sales Before and After Sustainability Changes
