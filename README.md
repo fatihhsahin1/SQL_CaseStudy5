@@ -20,6 +20,13 @@ A collection of SQL queries and their corresponding results. These queries were 
 4.  `Report_SQL_CaseStudy5.pdf`:
 A detailed report that walks through the entire analysis process. This report includes an introduction, problem statement, key findings, visuals, and a conclusion, providing an in-depth view of the sales data analytics performed.
 
+5. `Data_Mart_Report.pdf`: A PDF version of the Power BI dashboard showcasing the analysis results.
+
+
+## Interactive Power BI Report
+
+For a more interactive experience, check out the Power BI report [here](https://mavenanalytics.io/project/10568). This report allows you to dive deeper into the data with dynamic visualizations.
+
 ### Reflections 💭
 Engaging with this case study was both challenging and rewarding. It provided a realistic scenario based on real-world changes in retail behavior and allowed me to apply and sharpen my SQL skills. I've gained valuable insights into data cleansing, pattern recognition, and the importance of visual representations in conveying findings.
 
